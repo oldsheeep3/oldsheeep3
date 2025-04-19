@@ -20,16 +20,16 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,postman)](https://skillicons.dev)
 
-# <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif?cid=ecf05e47djqzana6hptmsbo4cu80zwu9y7b8bo71n90u0pom&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28"  style="margin-bottom: -0.2em"> Hackathon 
+# <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif?cid=ecf05e47djqzana6hptmsbo4cu80zwu9y7b8bo71n90u0pom&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28" style="margin-bottom: -0.2em"> Hackathon 
 
 ## マチケンナンバ
 
 <div align="center">
 
 ### < C0deハッカソン with pixiv >
-<span style="font-size: 120%;font-weight:bold">pixiv最優秀賞、メンター優秀賞</span>
+**pixiv最優秀賞、メンター優秀賞**
 
-<img src="https://sheeplab.net/com/img/machiken.png" alt="マチケンナンバ" style="max-width: 500px"/>
+<img width="500" src="https://sheeplab.net/com/img/machiken.png" alt="マチケンナンバ" style="max-width: 500px"/>
 
 </div>
 <div align="right">
@@ -55,9 +55,9 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 <div  align="center">
 
 ### < SysHack2025 初陣の春 >
-<span style="font-size: 120%;font-weight:bold">サイバーエージェント賞</span>
+**サイバーエージェント賞**
 
-<img src="https://sheeplab.net/com/img/ssjs.webp" alt="SS.JS" style="max-width: 500px"/>
+<img width="500" src="https://sheeplab.net/com/img/ssjs.webp" alt="SS.JS" style="max-width: 500px"/>
 
 </div>
 
@@ -88,7 +88,7 @@ Processingをjavascriptに変換するトランスパイラ。<br>
 
 <div  align="center">
 
-<img src="https://sheeplab.net/com/img/sheeplab-trainfo.png" alt="Trainfo" style="max-width: 500px"/>
+<img width="500" src="https://sheeplab.net/com/img/sheeplab-trainfo.png" alt="Trainfo" style="max-width: 500px"/>
 
 </div>
 
