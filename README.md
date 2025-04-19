@@ -2,8 +2,8 @@
 
 Second-year Bachelor's student, at Nagoya Institute of Technology.
 
-[Check my website <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e4740k9d5k00n0bcnjo0nvwh2q9539inmtes8ocjaqb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20" style="margin-bottom: -0.3em"> [https://sheeplab.net]](https://sheeplab.net)<br>
-[Follow my Twitter <img src="https://media.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47z9rymw6bb2nqi5ugyspctfv2osgkvg4ozd4rjbyf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="24" style="margin-bottom: -0.1em"> @oldsheeep3](https://x.com/oldsheeep3)
+ <img src="https://media.giphy.com/media/FkdU6Or6txxpPdOsL8/giphy.gif?cid=ecf05e4740k9d5k00n0bcnjo0nvwh2q9539inmtes8ocjaqb&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="20" style="margin-bottom: -0.3em"> [Check my website [https://sheeplab.net]](https://sheeplab.net)<br>
+<img src="https://media.giphy.com/media/KZhMoo6BxiylmJooMk/giphy.gif?cid=ecf05e47z9rymw6bb2nqi5ugyspctfv2osgkvg4ozd4rjbyf&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="24" style="margin-bottom: -0.1em"> [Follow my Twitter - @oldsheeep3](https://x.com/oldsheeep3)
 
 
 # <img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif?cid=ecf05e47h5kng9lxlh5tdz6j86qitn9ht98is7epuyw448z6&ep=v1_stickers_search&rid=giphy.gif&ct=e" width="28" style="margin-bottom: -0.2em"> Tech Stack
