@@ -12,15 +12,60 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 [![My Skills](https://skillicons.dev/icons?i=py,ts,html,css,js,php)](https://skillicons.dev)
 
 ### Frameworks/Library
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind)](https://skillicons.dev)
 
 ### Server/Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,arch,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,linux,arch,nginx,ubuntu)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,postman)](https://skillicons.dev)
 
 # <img src="https://media.giphy.com/media/xUOrvZ4p5o3QlIumZO/giphy.gif?cid=ecf05e47djqzana6hptmsbo4cu80zwu9y7b8bo71n90u0pom&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="28" style="margin-bottom: -0.2em"> Hackathon 
+
+## クソUI
+
+<div align="center">
+
+### < かき氷注文システムのUIを最凶にせよ！？ >
+**最凶技術賞**
+
+<img width="500" src="geek2025.png" alt="特に意味のないフォーム、そろわない段落、つぶれて読めないボタン、ありえない順番...">
+
+</div>
+
+<div align="right">
+
+担当：だいたい全部
+
+</div>
+
+かき氷の注文システムのUIを最凶にすることを目標にして行われたハッカソンです。<br>
+いかに使いずらく、醜くするか、を考えぬき、最凶に最狂を重ねて最恐を目指しました。
+
+[Github](https://github.com/oldsheeep3/geek25-ui)<br>
+[デモページ](https://geek25-ui.vercel.app)
+
+
+## 鶴舞こあら
+
+<div align="center">
+
+### < Hack-1 >
+
+<img width="500" src="coala.jpg" alt="鶴舞こあら" style="max-width: 500px" />
+
+</div>
+<div align="right">
+
+担当：モデリング、サーバー（インフラ）、ロゴ、配信基盤など
+
+</div>
+
+完全自律型AIVTuberです。
+マシンさえあれば全自動で配信をすることができます。<br>
+
+YouTube:[@tsurumacoala](https://youtube.com/@tsurumacoala)  
+X:[@tsurumacoala](https://x.com/tsurumacoala)
 
 ## マチケンナンバ
 
