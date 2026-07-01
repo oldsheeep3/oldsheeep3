@@ -9,7 +9,7 @@ Second-year Bachelor's student, at Nagoya Institute of Technology.
 # <img src="https://media.giphy.com/media/SvLQ270MWY0GpztVjo/giphy.gif?cid=ecf05e47h5kng9lxlh5tdz6j86qitn9ht98is7epuyw448z6&ep=v1_stickers_search&rid=giphy.gif&ct=e" width="28" style="margin-bottom: -0.2em"> Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,ts,html,css,js,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,go,ts,html,css,js,php,kotlin)](https://skillicons.dev)
 
 ### Frameworks/Library
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind)](https://skillicons.dev)
